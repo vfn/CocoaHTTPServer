@@ -128,6 +128,7 @@
 		CD1EAEF715DE2BBA00AA2DD6 /* README.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.txt; sourceTree = "<group>"; };
 		CD1EAF1615DE2C2200AA2DD6 /* CFNetwork.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CFNetwork.framework; path = System/Library/Frameworks/CFNetwork.framework; sourceTree = SDKROOT; };
 		CD1EAF1815DE2C4100AA2DD6 /* Security.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Security.framework; path = System/Library/Frameworks/Security.framework; sourceTree = SDKROOT; };
+		CDA4A59A15E1F18600FB87EC /* README.markdown */ = {isa = PBXFileReference; lastKnownFileType = text; path = README.markdown; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -157,6 +158,7 @@
 		CD1EAE7415DE218000AA2DD6 = {
 			isa = PBXGroup;
 			children = (
+				CDA4A59A15E1F18600FB87EC /* README.markdown */,
 				CD1EAE8415DE218000AA2DD6 /* CocoaHTTPServer */,
 				CD1EAE9915DE218000AA2DD6 /* CocoaHTTPServerTests */,
 				CD1EAE8115DE218000AA2DD6 /* Frameworks */,
